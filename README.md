@@ -7,7 +7,7 @@ An attempt to mimic the ReorderableList within Unity while adding some extended 
 ## Installation
 
 This extension can be installed using Unity package manager.  
-`https://github.com/cfoulston/Unity-Reorderable-List.git`  
+`https://github.com/OyeMad/Unity-Reorderable-List.git`  
 
 * Package manager UI  
 
@@ -17,11 +17,11 @@ This extension can be installed using Unity package manager.
 
 		{
     		"dependencies": {
-        		"com.malee.reorderablelist": "https://github.com/cfoulston/Unity-Reorderable-List.git"
+        		"com.OyeMad.reorderablelist": "https://github.com/OyeMad/Unity-Reorderable-List.git"
     		}
 		}
 
-* A standalone version is available under the [standalone](https://github.com/cfoulston/Unity-Reorderable-List/tree/standalone) branch, although this version is no longer maintained.  
+* A standalone version is available under the [standalone](https://github.com/OyeMad/Unity-Reorderable-List/tree/standalone) branch, although this version is no longer maintained.  
 
 ## Features
 
