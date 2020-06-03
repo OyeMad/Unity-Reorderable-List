@@ -17,7 +17,7 @@ This extension can be installed using Unity package manager.
 
 		{
     		"dependencies": {
-        		"com.OyeMad.reorderablelist": "https://github.com/OyeMad/Unity-Reorderable-List.git"
+        		"com.malee.reorderablelist": "https://github.com/OyeMad/Unity-Reorderable-List.git"
     		}
 		}
 
